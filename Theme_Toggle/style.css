@@ -1,0 +1,64 @@
+body {
+    padding: 25px;
+    background-color: #ffffff;
+    color: black;
+    font-size: 25px;
+    margin: 0px;
+} 
+
+.dark-mode {
+    background-color: black;
+    color: #ffffff;
+}
+
+.btn {
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    cursor: pointer;
+}
+
+.theme {
+    background-color: grey;
+}
+
+.success {
+    background-color: green;
+}
+
+.success:hover {
+    background-color: #46a046;
+}
+
+.info {
+    background-color: blue;
+}
+
+.info:hover {
+    background-color: #0b7dda;
+}
+
+.warning {
+    background-color: orange;
+}
+
+.warning:hover {
+    background-color: #e68a00;
+}
+
+.danger {
+    background-color: red;
+}
+
+.danger:hover {
+    background-color: #da190b;
+}
+
+.default {
+    background-color: gray;
+    color: black;
+}
+
+.default:hover {
+    background-color: #ddd;
+}
